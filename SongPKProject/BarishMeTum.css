@@ -1,0 +1,94 @@
+.outer
+{
+	height: 1200px;
+	width: 100vw;
+	background-color: brown;
+}
+
+.menu
+{
+	height:100px;
+	width: 100vw;
+	background-color:navy;
+
+}
+.menu_left
+{
+	height:100px;
+	width:600px;
+	float: left;
+	
+}
+.menu_right
+{
+	height:100px;
+	width:600px;
+	float: right;
+	
+}
+
+
+.banner
+{
+	height:50px;
+	width: 100vw;
+	background-color:white;
+}
+
+.work
+{
+	height: 1000px;
+	width: 100vw;
+	background-color: cyan;
+	padding-top: 40px;
+	padding-left: 25px;
+}
+
+.image
+{
+	height: 600px;
+	width: 600px;
+	background-color: pink;
+    float: left;
+    margin-left: 20px;
+}
+
+.songtitle
+{
+   height: 100px;
+   width: 400px;
+   background-color: navy;
+   padding-top: 2px;
+   padding-left: 20px;
+}
+
+.songname
+{
+	height: 850px;
+	width: 500px;
+	background-color: white;
+    float: left;
+    margin-left: 60px;
+    padding-top: 20px;
+    padding-left: 30px;
+
+}
+
+.footer
+{
+	height:150px;
+	width: 100vw;
+	background-color:silver;
+}	
+
+.footer1
+{
+	height:100px;
+	width: 100vw;
+	background-color: darkgray;
+
+}
+
+
+
+

@@ -1,0 +1,86 @@
+.outer
+{
+	height: 1200px;
+	width: 100vw;
+	background-color: brown;
+
+}
+
+.menu
+{
+	height:100px;
+	width: 100vw;
+	background-color:navy;
+
+}
+.menu_left
+{
+	height:100px;
+	width:600px;
+	float: left;
+	
+}
+.menu_right
+{
+	height:100px;
+	width:600px;
+	float: right;
+	
+}
+
+
+.banner
+{
+	height:50px;
+	width: 100vw;
+	background-color:white;
+	padding-top: 20px;
+}
+
+.work
+{
+	height: 1200px;
+	width: 100vw;
+	background-color: white;
+	font-size: large;
+}
+
+
+
+
+
+.images
+{
+	height: 270px;
+	width: 350px;
+	background-color: white;
+	float: left;
+    margin-left: 60px;
+    margin-top: 60px;
+
+}
+
+.caption
+{
+	height: 30px;
+	width: 350px;
+	background-color: white;
+	padding-top: 20px;
+}
+
+
+
+.footer
+{
+	height:150px;
+	width: 100vw;
+	background-color:silver;
+	margin-top: 1050px;
+}
+.footer1
+{
+	height:100px;
+	width: 100vw;
+	background-color:darkgray;
+}
+
